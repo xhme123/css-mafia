@@ -30,8 +30,9 @@ a.navbar-brand {
    padding: 0 0 0 1em;
 }
 nav.navbar.navbar-inverse.navbar-fixed-top {
+	
     padding: 1.5em 0;
-    background: #15181D;
+    background: #59767c;
     margin: 0;
     box-shadow: 0px 0 2px #C1C1C1 !important;
     position: inherit;
