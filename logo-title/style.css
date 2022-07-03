@@ -3598,6 +3598,7 @@ header {
 }
 
 header .container {
+  height: 75px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
